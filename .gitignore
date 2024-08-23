@@ -1,0 +1,5 @@
+dist-newstyle
+CHANGELOG.md
+webapi.db
+webapi.db-shm
+webapi.db-wal
